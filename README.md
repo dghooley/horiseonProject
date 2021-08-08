@@ -1,2 +1,1 @@
-# horiseonProject
-Code Refactor_Horiseon
+# Code Refactor Starter Code
