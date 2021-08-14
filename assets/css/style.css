@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,14 +34,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 25px;  
 }
+ /* END HEADER */
 
 a {
     color: #ffffff;
@@ -73,6 +76,16 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.content2 {
+    width: 25%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content3 {
+    display: flex;
 }
 
 .benefits {
@@ -188,6 +201,8 @@ p {
     font-size: 36px;
 }
 
+/* FOOTER */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +213,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* END FOOTER */
