@@ -31,7 +31,7 @@
 ### Links
 
 ###### * Link to the code repository : https://github.com/dghooley/horiseonProject
-###### * Link to the deployed website: https://dghooley.github.io/
+###### * Link to the deployed website: 
 
 
 
